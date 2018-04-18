@@ -1,4 +1,5 @@
 # Take a string and hash it - return only the first SIX characters
+# (C)2018 Lee Burridge
 
 function Hash($textToHash)
 {
