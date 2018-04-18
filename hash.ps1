@@ -1,3 +1,5 @@
+# Take a string and hash it - return only the first SIX characters
+
 function Hash($textToHash)
 {
   $hasher = new-object System.Security.Cryptography.SHA256Managed
